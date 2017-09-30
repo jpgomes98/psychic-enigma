@@ -2,6 +2,11 @@
 Fixe, isto é incrível. Technology is at my command.
 
 Seguir alterando cenas. Estou a adorar. Beijos.
+<<<<<<< HEAD
+
+
+Novo commit é necessário
+=======
 Houve ganda bug. 
 CALMA. Pequenos bugs.
 
@@ -14,3 +19,4 @@ CALMA. Pequenos bugs.
             (__)\       )\/\
                 ||----w |
                 ||     ||
+>>>>>>> origin/master
